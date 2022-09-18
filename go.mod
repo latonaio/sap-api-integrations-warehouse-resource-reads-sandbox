@@ -7,4 +7,4 @@ require (
 	golang.org/x/xerrors v0.0.0-20220517211312-f3a8303e98df
 )
 
-require github.com/latonaio/sap-api-time-value-converter v1.0.4 // indirect
+require github.com/latonaio/sap-api-time-value-converter v1.0.8 // indirect
